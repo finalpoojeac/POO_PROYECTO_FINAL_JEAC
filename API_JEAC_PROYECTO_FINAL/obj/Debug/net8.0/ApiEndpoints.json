@@ -1,5 +1,138 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.AsignacionDeHorariosExposicionesController",
+    "Method": "ActualizarExposicion",
+    "RelativePath": "ActualizarExposicion",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idGrupo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreEvaluador1",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreEvaluador2",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Hora",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.AsignacionDeHorariosExposicionesController",
+    "Method": "AsignarExposicion",
+    "RelativePath": "AsignarExposicion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idGrupo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreEvaluador1",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreEvaluador2",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Hora",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.AsignacionDeHorariosExposicionesController",
+    "Method": "BuscarPorNombreEvaluador",
+    "RelativePath": "BuscarPorNombreEvaluador",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombreEvaluador",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.AsignacionDeHorariosExposicionesController",
+    "Method": "EliminarExposicion",
+    "RelativePath": "EliminarExposicion",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idGrupo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.AsignacionDeHorariosExposicionesController",
+    "Method": "ObtenerListaExposiciones",
+    "RelativePath": "lista de exposiciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.AsignacionDeHorariosExposicionesController",
+    "Method": "ObtenerEvaluadoresDisponibles",
+    "RelativePath": "ObtenerEvaluadoresDisponibles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.AsignacionDeHorariosExposicionesController",
+    "Method": "ObtenerExposicion",
+    "RelativePath": "ObtenerExposicion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idGrupo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+>>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
     "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

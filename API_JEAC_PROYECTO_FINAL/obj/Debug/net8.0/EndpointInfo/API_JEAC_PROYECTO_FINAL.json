@@ -5,6 +5,184 @@
     "version": "1.0"
   },
   "paths": {
+<<<<<<< HEAD
+=======
+    "/AsignarExposicion": {
+      "post": {
+        "tags": [
+          "AsignacionDeHorariosExposiciones"
+        ],
+        "parameters": [
+          {
+            "name": "idGrupo",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "nombreEvaluador1",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "nombreEvaluador2",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "Hora",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/ObtenerExposicion": {
+      "get": {
+        "tags": [
+          "AsignacionDeHorariosExposiciones"
+        ],
+        "parameters": [
+          {
+            "name": "idGrupo",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/ObtenerEvaluadoresDisponibles": {
+      "get": {
+        "tags": [
+          "AsignacionDeHorariosExposiciones"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/EliminarExposicion": {
+      "delete": {
+        "tags": [
+          "AsignacionDeHorariosExposiciones"
+        ],
+        "parameters": [
+          {
+            "name": "idGrupo",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/ActualizarExposicion": {
+      "put": {
+        "tags": [
+          "AsignacionDeHorariosExposiciones"
+        ],
+        "parameters": [
+          {
+            "name": "idGrupo",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "nombreEvaluador1",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "nombreEvaluador2",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "Hora",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/BuscarPorNombreEvaluador": {
+      "get": {
+        "tags": [
+          "AsignacionDeHorariosExposiciones"
+        ],
+        "parameters": [
+          {
+            "name": "nombreEvaluador",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/lista de exposiciones": {
+      "get": {
+        "tags": [
+          "AsignacionDeHorariosExposiciones"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+>>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
     "/WeatherForecast": {
       "get": {
         "tags": [
