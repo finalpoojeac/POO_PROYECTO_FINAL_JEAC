@@ -1,75 +1,36 @@
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\appsettings.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.staticwebassets.endpoints.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.exe
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.deps.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.runtimeconfig.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.dll
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.pdb
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.csproj.AssemblyReference.cache
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.AssemblyInfoInputs.cache
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.AssemblyInfo.cs
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.csproj.CoreCompileInputs.cache
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\scopedcss\bundle\API_JEAC_PROYECTO_FINAL.styles.css
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC.9646FFEB.Up2Date
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.dll
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\refint\API_JEAC_PROYECTO_FINAL.dll
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.pdb
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.genruntimeconfig.cache
-C:\Users\Jorge Patiño\Downloads\API_JEAC_PROYECTO_FINAL\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\ref\API_JEAC_PROYECTO_FINAL.dll
-<<<<<<< HEAD
-=======
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.csproj.AssemblyReference.cache
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.AssemblyInfoInputs.cache
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.AssemblyInfo.cs
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.csproj.CoreCompileInputs.cache
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.dll
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\refint\API_JEAC_PROYECTO_FINAL.dll
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.pdb
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\appsettings.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.staticwebassets.endpoints.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.exe
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.deps.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.runtimeconfig.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.dll
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.pdb
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\scopedcss\bundle\API_JEAC_PROYECTO_FINAL.styles.css
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC.9646FFEB.Up2Date
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.genruntimeconfig.cache
-C:\Users\samue\Desktop\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\ref\API_JEAC_PROYECTO_FINAL.dll
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\appsettings.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.staticwebassets.endpoints.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.exe
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.deps.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.runtimeconfig.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.dll
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\API_JEAC_PROYECTO_FINAL.pdb
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.AssemblyInfo.cs
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\scopedcss\bundle\API_JEAC_PROYECTO_FINAL.styles.css
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC.9646FFEB.Up2Date
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.dll
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\refint\API_JEAC_PROYECTO_FINAL.dll
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.pdb
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\API_JEAC_PROYECTO_FINAL.genruntimeconfig.cache
+C:\Users\samue\Documents\poo\POO_PROYECTO_FINAL_JEAC-main\API_JEAC_PROYECTO_FINAL\obj\Debug\net8.0\ref\API_JEAC_PROYECTO_FINAL.dll

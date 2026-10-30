@@ -5,8 +5,6 @@
     "version": "1.0"
   },
   "paths": {
-<<<<<<< HEAD
-=======
     "/AsignarExposicion": {
       "post": {
         "tags": [
@@ -182,7 +180,6 @@
         }
       }
     },
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
     "/WeatherForecast": {
       "get": {
         "tags": [

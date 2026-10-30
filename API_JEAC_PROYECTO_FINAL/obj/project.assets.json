@@ -447,39 +447,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\Jorge Patiño\\.nuget\\packages\\": {},
-=======
     "C:\\Users\\samue\\.nuget\\packages\\": {},
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Jorge Patiño\\Downloads\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Documents\\poo\\POO_PROYECTO_FINAL_JEAC-main\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
       "projectName": "API_JEAC_PROYECTO_FINAL",
-      "projectPath": "C:\\Users\\Jorge Patiño\\Downloads\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
-      "packagesPath": "C:\\Users\\Jorge Patiño\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge Patiño\\Downloads\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\samue\\Desktop\\POO_PROYECTO_FINAL_JEAC-main\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
-      "projectName": "API_JEAC_PROYECTO_FINAL",
-      "projectPath": "C:\\Users\\samue\\Desktop\\POO_PROYECTO_FINAL_JEAC-main\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
+      "projectPath": "C:\\Users\\samue\\Documents\\poo\\POO_PROYECTO_FINAL_JEAC-main\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\Desktop\\POO_PROYECTO_FINAL_JEAC-main\\API_JEAC_PROYECTO_FINAL\\obj\\",
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
+      "outputPath": "C:\\Users\\samue\\Documents\\poo\\POO_PROYECTO_FINAL_JEAC-main\\API_JEAC_PROYECTO_FINAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\Jorge Patiño\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -488,10 +472,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-        "C:\\Program Files\\dotnet\\library-packs": {},
-=======
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -542,11 +522,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json"
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json"
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
       }
     }
   }

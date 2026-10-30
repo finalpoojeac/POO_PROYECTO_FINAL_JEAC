@@ -1,7 +1,5 @@
 [
   {
-<<<<<<< HEAD
-=======
     "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.AsignacionDeHorariosExposicionesController",
     "Method": "ActualizarExposicion",
     "RelativePath": "ActualizarExposicion",
@@ -132,7 +130,6 @@
     "ReturnTypes": []
   },
   {
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
     "ContainingType": "API_JEAC_PROYECTO_FINAL.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

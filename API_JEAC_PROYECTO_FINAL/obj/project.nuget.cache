@@ -1,20 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "unldB/P63zs=",
+  "dgSpecHash": "4VwOndgSan0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorge Patiño\\Downloads\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Jorge Patiño\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Jorge Patiño\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
-    "C:\\Users\\Jorge Patiño\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
-    "C:\\Users\\Jorge Patiño\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
-    "C:\\Users\\Jorge Patiño\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "C:\\Users\\Jorge Patiño\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
-=======
-  "dgSpecHash": "fx/q2Wvu9j0=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\samue\\Desktop\\POO_PROYECTO_FINAL_JEAC-main\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
+  "projectFilePath": "C:\\Users\\samue\\Documents\\poo\\POO_PROYECTO_FINAL_JEAC-main\\API_JEAC_PROYECTO_FINAL\\API_JEAC_PROYECTO_FINAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
@@ -22,7 +10,6 @@
     "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
->>>>>>> 80f37d9 (Se agregan DTOs, lista estática y controladores)
   ],
   "logs": []
 }
